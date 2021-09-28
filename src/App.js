@@ -6,7 +6,7 @@ const emojiData = {
   "😔": "sad",
   "😠": "angry",
   "😊": "happy",
-  "🤔": "think"
+  "🤔": "thinking"
 };
 
 var emojis = Object.keys(emojiData);
